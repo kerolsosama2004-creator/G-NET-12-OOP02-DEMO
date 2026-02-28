@@ -19,7 +19,7 @@
             //Console.WriteLine(Account01.GetBalance());//Get
             #endregion
             #region Part 02
-            //BankAccount account01 = new BankAccount(1111,2000,"NNNN");
+            //BankAccount account01 = new BankAccount(1111, 2000, "NNNN");
             ////account01.name="Ra";Invalid
             //account01.Name = "Ra";//Invalid Data => Set
             //Console.WriteLine(account01.Name);//Get
